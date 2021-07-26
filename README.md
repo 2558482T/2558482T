@@ -1,7 +1,7 @@
 # 👋 Hi there!
 - 👨‍🎓 I’m Shao Tang. GUID: 2558482T. MSc in Information Technology.
 - 🏫 I’m currently learning Internet Technology.
-- 📖 I'm working through *Tango with Django*.
+- 📖 I'm studying *Tango with Django*.
 - 📝 This account is used to submit source code of my Rango application up to Chapter 10.
 
 <!---
